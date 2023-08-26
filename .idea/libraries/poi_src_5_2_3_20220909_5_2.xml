@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="poi-src-5.2.3-20220909-5.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master" />
+      <root url="jar://$USER_HOME$/Downloads/aspose-cells-23.7-gridweb.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aspose-cells-23.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/aspose-cells-23.7-gridweb-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aspose-cells-23.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/osgi/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/osgi/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/main/ruby/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/poi-ant-contrib/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-integration/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-ooxml-lite-agent/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-ooxml/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-ooxml/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-scratchpad/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi-scratchpad/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909-5.2.3/poi/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Examples.GridWeb/springdemo/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Examples.GridWeb/war/project/src" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Examples/src" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Plugins/Aspose-Cells-Java-for-Eclipse(Maven)/AsposeCellsEclipsePlugin/src" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Plugins/Aspose-Cells-Java-for-NetBeans(Maven)/src" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Plugins/Aspose_Cells_Java_for_IntelliJ(Maven)/src" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Plugins/Aspose_Cells_Java_for_Xlsx4j/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/Plugins/Aspose_Cells_for_Apache_POI/Aspose-Cells-for-Apache-POI-(Maven)/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Aspose.Cells-for-Java-master/cells_explorer/src" />
+    </SOURCES>
+  </library>
+</component>
